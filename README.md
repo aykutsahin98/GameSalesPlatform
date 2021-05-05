@@ -16,3 +16,4 @@ Simulate an environment where players can register to the system, update their i
  ![5](https://user-images.githubusercontent.com/36954450/117126299-3ecf9c80-ada3-11eb-9e3b-7f639fe91ad5.png)
  
  ### Wizards: kısmına "Web Service Client" yazıp, "Web Services altında ki Web Service Client" olanı seçiyorum ve "Next" butonuna basıyorum.
+![7](https://user-images.githubusercontent.com/36954450/117126511-8524fb80-ada3-11eb-846a-fcc42e6a5a3c.png)
