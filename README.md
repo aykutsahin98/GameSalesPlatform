@@ -6,3 +6,6 @@ Simulate an environment where players can register to the system, update their i
  ### Üst menüden, "File - New - Project"
  ![1](https://user-images.githubusercontent.com/36954450/117125843-bbae4680-ada2-11eb-86aa-893b1e3a1064.png)
  
+ ### Wizards: kısmında "Java Project" yazıp, alt taraftan "Java Project" yazanı seçip "Next" butonuna basıyoruz.
+ ![2](https://user-images.githubusercontent.com/36954450/117125948-d84a7e80-ada2-11eb-9d9e-54006cc323ea.png)
+ 
