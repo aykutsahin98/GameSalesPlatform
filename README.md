@@ -1,5 +1,8 @@
 # Game Sales Platform
 Kullanıcıların, steam vb. siteler gibi sisteme kayıt olabileceği aynı zamanda kütüphanlerine oyunları ekleyip satın alabileceği bir sistemin Java programlama dili kullanılarak yapılması. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıyoruz.
+
+ # Projeden Örnek Bir Ekran
+ 
  
  # MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
  
