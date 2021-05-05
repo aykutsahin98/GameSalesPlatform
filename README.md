@@ -2,8 +2,8 @@
 Kullanıcıların, steam vb. siteler gibi sisteme kayıt olabileceği aynı zamanda kütüphanlerine oyunları ekleyip satın alabileceği bir sistemin Java programlama dili kullanılarak yapılması. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıyoruz.
 
  # Projeden Örnek Bir Ekran
- 
- 
+ ![Ekran görüntüsü 2021-05-05 125001](https://user-images.githubusercontent.com/36954450/117127255-87d42080-ada4-11eb-8ee9-87f5ff053a10.jpg)
+
  # MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
  
  ### Üst menüden, "File - New - Project"
