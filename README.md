@@ -1,5 +1,5 @@
 # Game Sales Platform
-Simulate an environment where players can register to the system, update their information, and delete their records. Simulation of a system that will verify the accuracy of customer information using e-government systems.
+Kullanıcıların, steam vb. siteler gibi sisteme kayıt olabileceği aynı zamanda kütüphanlerine oyunları ekleyip satın alabileceği bir sistemin Java programlama dili kullanılarak yapılması. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıyoruz.
  
  # MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
  
