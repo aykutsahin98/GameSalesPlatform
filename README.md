@@ -10,4 +10,6 @@ Simulate an environment where players can register to the system, update their i
  ![2](https://user-images.githubusercontent.com/36954450/117125948-d84a7e80-ada2-11eb-9d9e-54006cc323ea.png)
  
  ### Project name "MernisTest" olarak ekliyoruz, "Use an execution environment JRE:" kısmından JavaSE-1.8 seçiyoruz. (Mernis servisi için en stabil sürüm) ve "Finish" diyoruz.
+ ![3](https://user-images.githubusercontent.com/36954450/117126179-147ddf00-ada3-11eb-9f15-5f56db8ef72a.png)
  
+ ### Oluşan projeme sağ tıklayıp, "New - Other" seçiyorum.
