@@ -1,0 +1,2 @@
+# GameSalesPlatform
+ Game Sales Simulation
